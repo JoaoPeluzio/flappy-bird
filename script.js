@@ -37,7 +37,7 @@ let velocityX = -2; //faz as pipes se moverem para esquerda(-) no eixo X.
 
 let velocityY = 0; //faz o controle de pulo do bird 
 
-let gravity = 0.4; //faz o bird ser atraido para baixo
+let gravity = 0.2; //faz o bird ser atraído para baixo
 
 let gameOver = false;
 let score = 0;
